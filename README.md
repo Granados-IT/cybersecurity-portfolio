@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Self-taught cybersecurity learner transitioning from hospitality into IT/security. Based in Barcelona, Spain.
+Self-taught cybersecurity learner transitioning from hospitality into IT/security. Based in Spain.
 
 ## About
 35 years old. Building hands-on skills through homelabs, platforms and formal training while pursuing entry-level IT/SOC roles.

@@ -217,4 +217,4 @@ Remaining: Active Directory configuration, Kali Linux VM, SIEM deployment.
 - [Hyper-V nested virtualization](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/nested-virtualization)
 - [Set-VMProcessor](https://learn.microsoft.com/en-us/powershell/module/hyper-v/set-vmprocessor)
 - [VirtIO drivers](https://github.com/virtio-win/virtio-win-pkg-scripts)
-- [Farrukh Ahmet SOC Home Lab](https://github.com/farrukh-ahm/SOC-Home-Lab)
+- [Farrukh Ahmet SOC Home Lab](https://github.com/farrukhCTI/soc-homelab)
